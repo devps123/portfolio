@@ -33,7 +33,6 @@ This is a progressive web application (PWA) portfolio app created using React.js
 
 - **Service Workers**: Enables offline functionality.
 - **App Manifest**: Allows users to install the app on their devices.
-- **Push Notifications**: Provides a way to engage users even when the app is not open.
 
 ## Environment
 
