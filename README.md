@@ -20,6 +20,7 @@ This is a progressive web application (PWA) portfolio app created using React.js
 4. **Progressive Web App (PWA) Features:** Includes features to make the app a Progressive Web App.
 5. **Infinite Scroll Mechanism:** Implemented in the My Blogs section using a fake posts API.
 6. **Tailwind CSS:** Utilizes Tailwind CSS for styling, maintaining light and dark mode.
+7. **Unit Tests:** Test cases added for testing the components.
 
 ## Technologies Used
 
@@ -45,4 +46,5 @@ This is a progressive web application (PWA) portfolio app created using React.js
 2. Install dependencies using `npm install`.
 3. Run the development server using `npm start`.
 4. Access the app in your browser at `http://localhost:3000`.
+5. To perform test cases run `npm run test`.
 
